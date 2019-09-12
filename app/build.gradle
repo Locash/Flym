@@ -13,8 +13,8 @@ android {
 		applicationId "net.frju.flym"
 		minSdkVersion 21
 		targetSdkVersion 29
-		versionCode 24
-		versionName "2.3.0"
+		versionCode 25
+		versionName "2.3.666666"
 	}
 
 	compileOptions {
